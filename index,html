@@ -10,8 +10,8 @@
         <h1>Programacion desde 0</h1>
     </header>
         <a href="index.html">Principal</a>
-        <a href="programacion.html">tutorial</a>
-        <a href="comandos.html">Comandos</a>
+        <a href="menu.html">tutorial</a>
+        <a href="contacto.html">Comandos</a>
     <footer>
 
     </footer>
